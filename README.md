@@ -1,2 +1,2 @@
 ## Hi there 👋
-![Cover](https://github.com/estelle-dupuis/estelle-dupuis/main/img/Design sans titre.png)
+![alt text](https://github.com/estelle-dupuis/estelle-dupuis/blob/main/Design sans titre.jpg?raw=true)
