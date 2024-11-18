@@ -1,2 +1,3 @@
 # Bonjour, tout le monde !
-<img src="/img_github/logo_banniere.png">
+
+<img src="/img_github/TETELLE.png ">
