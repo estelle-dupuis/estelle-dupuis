@@ -26,3 +26,18 @@ Actuellement, je travaille sur le site internet d’une entreprise pour laquelle
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estelle-dupuis-822b03169/)
+
+## Contact
+
+<form action="votre_script_de_traitement.php" method="post">
+    <label for="name">Nom :</label><br>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="email">Email :</label><br>
+    <input type="email" id="email" name="email" required><br><br>
+    
+    <label for="message">Message :</label><br>
+    <textarea id="message" name="message" rows="4" required></textarea><br><br>
+    
+    <input type="submit" value="Envoyer">
+</form>
