@@ -21,4 +21,4 @@ Outils:
 
 Actuellement, je travaille sur le site internet d’une entreprise pour laquelle je gère également la communication. Cette expérience me permet d’acquérir des compétences à la fois techniques et créatives, en travaillant sur l’ergonomie du site, le design et la mise à jour des contenus.
 
-<img src="/img_github/lapsuce.png">
+<img src="/img_github/lapsuce-sans-logo.png">
