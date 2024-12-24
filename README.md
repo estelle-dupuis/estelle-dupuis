@@ -30,4 +30,4 @@ Actuellement, je travaille sur le site internet d’une entreprise pour laquelle
 
 ## Contactez moi
 
-@ : estelle.dupuis@laplateforme.io
+[Envoyer un e-mail](mailto:estelle.dupuis@laplateforme.io)
