@@ -11,16 +11,11 @@ Actuellement en première année de développement web. Passionnée par les nouv
 ## 🛠 Skills
 Compétence en programmation:
 
-<img src="/img_github/logo-html.png" alt="Logo" width="20" height="20">
-<img src="/img_github/logo-css.png" alt="Logo" width="20" height="20">
-<img src="/img_github/logo-python.png"alt="Logo" width="20" height="20">
+<img src="/img_github/logo-html.png" alt="Logo" width="60" height="60"> <img src="/img_github/logo-css.png" alt="Logo" width="60" height="60"> <img src="/img_github/logo-python.png"alt="Logo" width="60" height="60">
 
 Outils:
 
-<img src="/img_github/logo-vscode.png" alt="Logo" width="20" height="20">
-<img src="/img_github/logo-git.png" alt="Logo" width="20" height="20">
-<img src="/img_github/logo-canva.png" alt="Logo" width="20" height="20"> 
-<img src="/img_github/logo-figma.png" alt="Logo" width="20" height="20">
+<img src="/img_github/logo-vscode.png" alt="Logo" width="60" height="60"> <img src="/img_github/logo-git.png" alt="Logo" width="60" height="60"> <img src="/img_github/logo-canva.png" alt="Logo" width="60" height="60"> <img src="/img_github/logo-figma.png" alt="Logo" width="60" height="60">
 
 ## 💻 Projets
 
