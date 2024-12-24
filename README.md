@@ -6,6 +6,7 @@
 
 Actuellement en première année de développement web. Passionnée par les nouvelles technologies et l’informatique, j’aime particulièrement apprendre de nouvelle compétences et relever des défis. Autonome et motivée, je cherche à mettre en pratique mes connaissances théoriques tout en continuant à progresser.
 
+Dans le cadre de mes études, je suis à la recherche d’une alternance pour mes deux prochaines années, afin de pouvoir combiner apprentissage et expérience professionnelle. Mon objectif est de continuer à développer mes compétences en développement web tout en contribuant activement à des projets concrets.
 
 
 ## 🛠 Skills
@@ -27,17 +28,6 @@ Actuellement, je travaille sur le site internet d’une entreprise pour laquelle
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estelle-dupuis-822b03169/)
 
-## Contact
+## Contactez moi
 
-<form action="votre_script_de_traitement.php" method="post">
-    <label for="name">Nom :</label><br>
-    <input type="text" id="name" name="name" required><br><br>
-    
-    <label for="email">Email :</label><br>
-    <input type="email" id="email" name="email" required><br><br>
-    
-    <label for="message">Message :</label><br>
-    <textarea id="message" name="message" rows="4" required></textarea><br><br>
-    
-    <input type="submit" value="Envoyer">
-</form>
+@ : estelle.dupuis@laplateforme.io
